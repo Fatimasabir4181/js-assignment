@@ -1,0 +1,44 @@
+.all {
+  border: 5px groove rgb(168, 168, 168);
+  width: 201px;
+  margin: auto;
+}
+
+.result {
+  width: 193px;
+  position: relative;
+  top: -2px;
+  background-color: rgb(102, 101, 101);
+    color: #fff
+}
+
+.clearBt {
+  width: 100%;
+  margin-top: 10px;
+  margin-bottom: 6px;
+  background-color: rgb(102, 101, 101);
+    color: #fff
+}
+
+.btn {
+  background-color: rgb(223, 176, 76);
+  width: 45.2px;
+  margin: 1px;
+border-radius: 3px;
+}
+.num{
+    background-color: rgb(182, 182, 182) ;
+     width: 45.2px;
+  margin: 1px;
+}
+.equal {
+  background-color:  rgb(223, 176, 76);
+  width: 98.5px;
+  margin-top: 5px;
+  border-radius: 3px;
+}
+.zero{
+     background-color: rgb(182, 182, 182);
+  width: 98.5px;
+  margin-top: 5px; 
+}
